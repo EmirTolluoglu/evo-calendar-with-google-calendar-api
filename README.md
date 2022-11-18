@@ -17,7 +17,7 @@ you can run your evo-calendar google api with these steps
   a. There are lots of tutorial on intranet ex. https://developers.google.com/drive/api/quickstart/nodejs
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/EmirTolluoglu/evo-calendar-with-google-calendar-api
    ```
 3. Enter your api keys in index.js 
 4. and thats all you can run your server with this code
